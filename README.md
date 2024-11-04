@@ -11,4 +11,4 @@ The goal of the stroke prediction system is to develop a model that can accurate
 
 ## Screenshot
 
-![SS](https://i.ibb.co/GFMH6sV/sps.png)
+![image](https://github.com/user-attachments/assets/c1cb2d08-bd83-47cb-8147-98bf8cad8bd1)
